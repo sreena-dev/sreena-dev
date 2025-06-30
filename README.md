@@ -11,7 +11,7 @@ Welcome to my professional journey overview! This repository showcases my intern
 **CERTAINTI.AI** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **MICROSOFT GGR edunet**
 <br>
 <br>
-<img src="assets/cai.png" alt="Certainty.AI Logo" width="100"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="assets/edunet microsoft.png" alt="Microsoft GGR Edunet Logo" width="180">
+<img src="assets/cai.png" alt="Certainty.AI Logo" width="100"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="assets/edunet microsoft.png" alt="Microsoft GGR Edunet Logo" width="180">
 
 
 ### CERTIFICATIONS

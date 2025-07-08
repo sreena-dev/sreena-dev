@@ -27,12 +27,11 @@ Welcome to my professional journey overview! This repository showcases my intern
 ### SKILLS
 
 
-* **Programming Languages:** [e.g., Python, Java, C++, JavaScript, R]
-* **Frameworks & Libraries:** [e.g., TensorFlow, PyTorch, React, Node.js, Django, Flask, Spring Boot]
+* **Programming Languages:** [Python, Java]
+* **Frameworks & Libraries:** [TensorFlow, PyTorch, Flask]
 * **Tools & Technologies:** [e.g., Git, Docker, Kubernetes, AWS, Azure, Google Cloud Platform, Tableau]
-* **Databases:** [e.g., SQL (MySQL, PostgreSQL), NoSQL (MongoDB, Cassandra)]
-* **Concepts & Areas:** [e.g., Data Analysis, Machine Learning, Deep Learning, Web Development, Cloud Computing, UI/UX Design]
-* **Soft Skills:** [e.g., Problem-Solving, Teamwork, Communication, Project Management, Adaptability]
+* **Databases:** [SQL (MySQL, PostgreSQL)]
+* **Concepts & Areas:** [Data Analysis, Machine Learning, Deep Learning,Cloud Computing]
 
 <br><br>
 

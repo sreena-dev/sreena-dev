@@ -21,7 +21,7 @@ Welcome to my professional journey overview! This repository showcases my intern
 
 * **Programming Languages:** [Python, Java]
 * **Frameworks & Libraries:** [TensorFlow, PyTorch, Flask]
-* **Tools & Technologies:** [e.g., Git, Docker, Kubernetes, AWS, Azure, Google Cloud Platform, Tableau]
+* **Tools & Technologies:** [e.g., Git, Docker, AWS, Azure, Google Cloud Platform, Tableau]
 * **Databases:** [SQL (MySQL, PostgreSQL)]
 * **Concepts & Areas:** [Data Analysis, Machine Learning, Deep Learning, Cloud Computing]
 

@@ -1,10 +1,5 @@
 # My Professional Journey
 
-Hi there 👋
-
-Welcome to my professional journey overview! This repository showcases my internships, certifications, and skills as outlined.
-
----
 
 ### CERTIFICATIONS
 
@@ -27,7 +22,7 @@ Welcome to my professional journey overview! This repository showcases my intern
 ### DATABASE
 
 <img src="assets/mysql.png" alt="IBM Logo" width="70"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;
-<img src="assets/postgresql-logo.png" alt="IBM Logo" width="70"> 
+<img src="assets/postgresql.png" alt="IBM Logo" width="70"> 
 
 
 <br>

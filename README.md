@@ -15,7 +15,7 @@
 <img src="assets/py.png" alt="Google Logo" width="70"> &nbsp; &nbsp; &nbsp; &nbsp;   &nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp;
 <img src="assets/java.png" alt="Microsoft Logo" width="70"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 <br>
-&nbsp; **Python** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; **Java** 
+
 
 <br>
 
@@ -30,9 +30,9 @@
 
 
 <img src="assets/skl.png" alt="Google Logo" width="70"> &nbsp; &nbsp; &nbsp; &nbsp;   &nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp;
-<img src="assets/mat.png" alt="Microsoft Logo" width="70"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="assets/pandas.png" alt="IBM Logo" width="70"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="assets/ll.jpg" alt="LinkedIn Learning Logo" width="70"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="assets/deepLearning.ai" alt="DeepLearning.AI Logo" width="70">
+<img src="assets/mat.png" alt="Microsoft Logo" width="70"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="assets/pandas.png" alt="IBM Logo" width="70"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
 <br>
-
+<br>
 
 * **Programming Languages:** [Python, Java]
 * **Frameworks & Libraries:** [TensorFlow, PyTorch, Flask]
